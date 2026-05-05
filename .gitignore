@@ -1,0 +1,7 @@
+node_modules
+
+# I will not share my secrets with anyone my secrets.
+.env
+
+# to put secret information
+# like password, jwt token, port number, database URL, etc. 
